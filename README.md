@@ -31,7 +31,7 @@ Check out my [pinned projects](https://github.com/CyWareham?tab=repositories) fo
 
 ## 📫 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/cy-wareham)
-- [Portfolio / Projects](https://github.com/CyWareham)
+- [Portfolio / Projects](https://github.com/CyWareham?tab=repositories)
 - Email: cywareham07@gmail.com
 
 ---
