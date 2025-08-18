@@ -20,7 +20,7 @@ I'm an aspiring **Software Engineer** and a **Data & Web Development Enthusiast*
 ---
 
 ## 📂 Featured Projects
-- **Memory Game:** JavaScript game with multiple difficulty levels and modes. 
+- **Memory Game:** JavaScript game with multiple difficulty levels and modes. [Test your memory!](https://cywareham.github.io/JavaScript-Memory-Game/)
 - **Rubix Cube Solver:** C++ code that models a Rubix Cube, shuffles it based on your request, and then solves itself!
 - **Knife and Fire:** A cooking skills web app teaching knife handling, heat control, and cooking science. [Knife and Fire](https://bonsai.lcsc.edu/wcwareham2002/FinalProject/index.html)
 - **Employee Management System:** C++ application for managing salaries, hours, and employee types
