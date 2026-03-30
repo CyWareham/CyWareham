@@ -1,6 +1,6 @@
 # Hi there, I'm Cy Wareham 👋
 
-I'm an aspiring **Software Engineer** and a **Data & Web Development Enthusiast**. I love solving problems with code and building practical solutions that make life easier.
+I'm an aspiring **Software Engineer** and a **current Software Engineer Intern at Schweitzer Engineering Laboratories**. I love solving problems with code and building practical solutions that make life easier.
 
 ---
 
